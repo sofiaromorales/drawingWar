@@ -27,6 +27,6 @@ The winner is the team that has more points when the 5 rounds end
 ## Installation 
 
 This playground was made to run on Xcode 10.1
-1. Open drawingWar.playground and run
+1. Open drawingWar.playground build and run
 
 
