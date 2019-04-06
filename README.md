@@ -1,11 +1,11 @@
 # Drawing War :robot:
 A xcode playground drawing game
 
-## WWDC19 scholarship instruction
+## WWDC19 scholarship Instruction
 
-Create an interactive scene in a Swift playground that can be experienced within three minutes.
+> Create an interactive scene in a Swift playground that can be experienced within three minutes.
 
-##Description
+## Description
 
 In this simple game your goal is to take you'r team to the victory!
 There are two teams:
